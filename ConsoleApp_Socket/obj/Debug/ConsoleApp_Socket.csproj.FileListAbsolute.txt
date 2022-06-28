@@ -1,0 +1,8 @@
+D:\C#\Demo\ConsoleApp_ProcessEvent\ConsoleApp_Socket\bin\Debug\ConsoleApp_Socket.exe.config
+D:\C#\Demo\ConsoleApp_ProcessEvent\ConsoleApp_Socket\bin\Debug\ConsoleApp_Socket.exe
+D:\C#\Demo\ConsoleApp_ProcessEvent\ConsoleApp_Socket\bin\Debug\ConsoleApp_Socket.pdb
+D:\C#\Demo\ConsoleApp_ProcessEvent\ConsoleApp_Socket\obj\Debug\ConsoleApp_Socket.csproj.AssemblyReference.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\ConsoleApp_Socket\obj\Debug\ConsoleApp_Socket.csproj.SuggestedBindingRedirects.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\ConsoleApp_Socket\obj\Debug\ConsoleApp_Socket.csproj.CoreCompileInputs.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\ConsoleApp_Socket\obj\Debug\ConsoleApp_Socket.exe
+D:\C#\Demo\ConsoleApp_ProcessEvent\ConsoleApp_Socket\obj\Debug\ConsoleApp_Socket.pdb

@@ -1,0 +1,8 @@
+D:\C#\Demo\ConsoleApp_ProcessEvent\SynchronousSocketClient\bin\Debug\SynchronousSocketClient.exe.config
+D:\C#\Demo\ConsoleApp_ProcessEvent\SynchronousSocketClient\bin\Debug\SynchronousSocketClient.exe
+D:\C#\Demo\ConsoleApp_ProcessEvent\SynchronousSocketClient\bin\Debug\SynchronousSocketClient.pdb
+D:\C#\Demo\ConsoleApp_ProcessEvent\SynchronousSocketClient\obj\Debug\SynchronousSocketClient.csproj.AssemblyReference.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\SynchronousSocketClient\obj\Debug\SynchronousSocketClient.csproj.SuggestedBindingRedirects.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\SynchronousSocketClient\obj\Debug\SynchronousSocketClient.csproj.CoreCompileInputs.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\SynchronousSocketClient\obj\Debug\SynchronousSocketClient.exe
+D:\C#\Demo\ConsoleApp_ProcessEvent\SynchronousSocketClient\obj\Debug\SynchronousSocketClient.pdb
