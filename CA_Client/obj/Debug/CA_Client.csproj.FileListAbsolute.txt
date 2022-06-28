@@ -1,0 +1,8 @@
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Client\obj\Debug\CA_Client.csproj.AssemblyReference.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Client\obj\Debug\CA_Client.csproj.SuggestedBindingRedirects.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Client\obj\Debug\CA_Client.csproj.CoreCompileInputs.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Client\bin\Debug\CA_Client.exe.config
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Client\bin\Debug\CA_Client.exe
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Client\bin\Debug\CA_Client.pdb
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Client\obj\Debug\CA_Client.exe
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Client\obj\Debug\CA_Client.pdb

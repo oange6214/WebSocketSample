@@ -1,0 +1,8 @@
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Server_IP6\bin\Debug\CA_Server_IP6.exe.config
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Server_IP6\bin\Debug\CA_Server_IP6.exe
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Server_IP6\bin\Debug\CA_Server_IP6.pdb
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Server_IP6\obj\Debug\CA_Server_IP6.csproj.AssemblyReference.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Server_IP6\obj\Debug\CA_Server_IP6.csproj.SuggestedBindingRedirects.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Server_IP6\obj\Debug\CA_Server_IP6.csproj.CoreCompileInputs.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Server_IP6\obj\Debug\CA_Server_IP6.exe
+D:\C#\Demo\ConsoleApp_ProcessEvent\CA_Server_IP6\obj\Debug\CA_Server_IP6.pdb
