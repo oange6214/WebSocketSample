@@ -9,9 +9,9 @@ CA_Server：WebSocket（Server）
 
 CA_Server_IP6：WebSocket（Server）
 
-AsynchronousClient：同步 Socket
+AsynchronousClient：同步 Socket（Client）
 
-AsynchronousSocketListener：同步 Socket
+AsynchronousSocketListener：同步 Socket（Server）
 
 SynchronousSocketListener：非同步 Socket（Server）
 
