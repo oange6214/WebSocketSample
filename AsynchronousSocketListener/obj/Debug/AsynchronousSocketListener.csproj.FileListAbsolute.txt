@@ -1,0 +1,8 @@
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousSocketListener\bin\Debug\AsynchronousSocketListener.exe.config
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousSocketListener\bin\Debug\AsynchronousSocketListener.exe
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousSocketListener\bin\Debug\AsynchronousSocketListener.pdb
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousSocketListener\obj\Debug\AsynchronousSocketListener.csproj.AssemblyReference.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousSocketListener\obj\Debug\AsynchronousSocketListener.csproj.SuggestedBindingRedirects.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousSocketListener\obj\Debug\AsynchronousSocketListener.csproj.CoreCompileInputs.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousSocketListener\obj\Debug\AsynchronousSocketListener.exe
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousSocketListener\obj\Debug\AsynchronousSocketListener.pdb

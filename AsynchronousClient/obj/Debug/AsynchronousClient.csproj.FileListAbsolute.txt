@@ -1,0 +1,8 @@
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousClient\bin\Debug\AsynchronousClient.exe.config
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousClient\bin\Debug\AsynchronousClient.exe
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousClient\bin\Debug\AsynchronousClient.pdb
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousClient\obj\Debug\AsynchronousClient.csproj.AssemblyReference.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousClient\obj\Debug\AsynchronousClient.csproj.SuggestedBindingRedirects.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousClient\obj\Debug\AsynchronousClient.csproj.CoreCompileInputs.cache
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousClient\obj\Debug\AsynchronousClient.exe
+D:\C#\Demo\ConsoleApp_ProcessEvent\AsynchronousClient\obj\Debug\AsynchronousClient.pdb
